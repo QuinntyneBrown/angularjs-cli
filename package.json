@@ -1,0 +1,11 @@
+{
+  "name": "angular-cli",
+  "version": "0.0.1",
+  "description": "command line interface for building angular 1.x apps",
+  "main": "program.cs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "=Quinntyne Brown <=>",
+  "license": "MIT"
+}
